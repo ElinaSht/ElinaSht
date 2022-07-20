@@ -12,7 +12,7 @@ I am passionate not only about machine learning, but also about web application 
 
 ## 🏢 Work experience
 I have experience in the financial sector.
-I am currently looking for a job as a Junior in Data Science or Frontend Development.
+I am currently looking for a job as a Junior in Frontend Development.
 
 
 <!--
