@@ -6,8 +6,8 @@ I am passionate not only about machine learning, but also about web application 
 
 ## 🛠 Technical Stack
 
-*   Python (numpy, pandas, scikit-learn, matplotlib)
 *   Javascript/ HTML/ CSS
+*   Python (numpy, pandas, scikit-learn, matplotlib)
 *   Java (Spring Framework, Spring Boot)
 
 ## 🏢 Work experience
