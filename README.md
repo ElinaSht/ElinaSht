@@ -1,8 +1,6 @@
 ## 👋 Hi there! My name is Elina
 
 I'm currently a 4th year student pursuing my Bachelor of Technology degree in Data Analysis and Machine Learning at the Financial University (Moscow).
-I am passionate not only about machine learning, but also about web application development.
-
 
 ## 🛠 Technical Stack
 
