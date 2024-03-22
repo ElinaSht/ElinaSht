@@ -1,10 +1,9 @@
 ### Hi there! My name is Elina
 
-### Technical Stack
+### My technical Stack
 
-*   Javascript/ HTML/ CSS
+*   Typescript/ Vue 3/ HTML/ CSS
 *   Python (numpy, pandas, scikit-learn, matplotlib)
-*   Java (Spring Framework, Spring Boot)
 
 <!--## 🏢 Work experience
 I have experience in the financial sector.
